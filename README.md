@@ -2,6 +2,9 @@
 
 This repository contains solutions to various assembly programming tasks, including control flow, array manipulation, arithmetic operations, and string manipulation. Each task demonstrates core assembly language concepts, including looping, conditional jumps, memory manipulation, and system calls.
 
+## About
+This project demonstrates key concepts in assembly programming, such as control flow, data manipulation, and modular subroutines. The tasks showcase how assembly language can be used to efficiently control hardware devices, manage memory, and perform mathematical computations.
+
 ## Table of Contents
 1. [Task 1: Control Flow and Conditional Logic](#task-1-control-flow-and-conditional-logic)
 2. [Task 2: Array Manipulation with Looping and Reversal](#task-2-array-manipulation-with-looping-and-reversal)
@@ -141,3 +144,13 @@ This program manipulates a user-provided string. The user can choose to reverse 
   - Case conversion and ensuring that only alphabetic characters were altered was tricky with ASCII values.
 
 ---
+
+## License
+MIT License
+
+---
+
+## Resources
+- [NASM Documentation](https://www.nasm.us/doc/)
+- [Linking in Linux with LD](https://www.gnu.org/software/binutils/manual/)
+- [Assembly Programming Tutorials](https://www.tutorialspoint.com/assembly_programming/index.htm)
